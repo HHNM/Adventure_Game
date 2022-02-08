@@ -24,7 +24,7 @@ I have added a level editor that uses csv files to save and lead level:
 ![Alt text](LevelEditor/lvleditor.png?raw=true "lvleditor")
 
 
-The art used in this game was all done by me.
+The art used in this game was all done by me(the player is not my original character).
 
 I will be sharing the code when it's finished.
 
