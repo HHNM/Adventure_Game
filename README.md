@@ -8,9 +8,9 @@ This is how the game looks now,still need to work on the art and the code
 
 For now, i have added all the animation of the player(idle, jump, attacks, hurt, die), but the art still need some work since it looks that they don't have all the same size.
 
-There are 2 enemys add to the first level:
+There are 2 enemys added to the first level:
 
-The first enemy follow the player when the vision rect collides with the player's rect, and the player get damages when it collides with the enemy rect.
+The first enemy follows the player when the vision rect collides with the player's rect, and the player get damages when its rect collides with the enemy's rect.
 
 The second attacks when he sees the player.
 
