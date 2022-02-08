@@ -10,7 +10,7 @@ For now, i have added all the animation of the player(idle, jump, attacks, hurt,
 
 There are 2 enemys add to the first level:
 
-The first enemy follow the player when the vision rect collides with the player rect, and the player get damages when it collides with the enemy rect.
+The first enemy follow the player when the vision rect collides with the player's rect, and the player get damages when it collides with the enemy rect.
 
 The second attacks when he sees the player.
 
