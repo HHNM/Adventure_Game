@@ -14,6 +14,9 @@ The first enemy follow the player when the vision rect collides with the player 
 
 The second attacks when he sees the player.
 
+![Alt text](Game/enemy.png?raw=true "enemy")
+
+
 ## Level Editor
 
 I have added a level editor that uses csv files to save and lead level:
