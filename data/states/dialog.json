@@ -1,0 +1,21 @@
+[
+    {"Emotion":"opensmile", "Text":"Hi, I have good news,", "Button":""},
+    {"Emotion":"openeye", "Text":"I know where we can find the 'AJIB' piece. ", "Button":""},
+    {"Emotion":"opensmile", "Text":"The one we have been looking for for ages.", "Button":""},
+    {"Emotion":"openeye", "Text":"But first, you need to join me,", "Button":""},
+    {"Emotion":"opensmile", "Text":"Next to the fire Tree.", "Button":""},
+    {"Emotion":"openeye", "Text":"To move, use left and right arrows,", "Button":"LeftRightArrow" },
+    {"Emotion":"closeeye", "Text":" to 'jump',", "Button":"Up" },
+
+    {"Emotion":"openeye", "Text":" to 'run'.", "Button":"Shift" },
+    {"Emotion":"closeeye", "Text":"To Attack monsters, use: ", "Button": ""},
+
+    {"Emotion":"openeyesmile", "Text":" to 'throw Pencils', ", "Button": "T"},
+    {"Emotion":"openeye", "Text":" to 'throw Pokeballs', ", "Button": "R"},
+    {"Emotion":"closeeye", "Text":" to use your 'special attack', ", "Button": "E"},
+    {"Emotion":"opensmile", "Text":" to 'Pause' the game.", "Button": "Enter"},
+    {"Emotion":"wink", "Text":"See you next to the Fire Tree. ", "Button":""}
+
+
+]
+
