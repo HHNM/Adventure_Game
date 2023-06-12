@@ -34,7 +34,7 @@ The main characters and the idea of the game are inspired from the people behind
 The playlist from the [Coding With Russ](https://youtube.com/playlist?list=PLjcN1EyupaQm20hlUE11y9y8EY2aXLpnv) youtube channel was a great guide to help me start coding the game with python 
 
 
-Art by Tsuslt
+The art is done by Tsuslt
 
 
 
