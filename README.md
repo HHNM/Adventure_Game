@@ -4,7 +4,9 @@ An adventure game using the python library pygame.
 To play the game 
 
 Clicking on `Ajib.exe` 
+
 Or 
+
 Run the `model.py` file after installing the required libraries
 
 ## Game
