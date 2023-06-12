@@ -26,7 +26,7 @@ You can create more levels using `level_editor.py` file
 
 ## Special Thanks 
 
-[Ahmed Albastaki](https://youtube.com/@AhmedAlbastaki) channel, specialy [the Extreme Game Dev](https://youtube.com/playlist?list=PLfre3pZQr_QmlafR0AG7EikdD2JV8KJI8) playlist helped with understanding the basics of game development and animation.  
+[Ahmed Albastaki](https://youtube.com/@AhmedAlbastaki) channel, specialy [the Extreme Game Dev](https://youtube.com/playlist?list=PLfre3pZQr_QmlafR0AG7EikdD2JV8KJI8) playlist helped with understanding the basics of game development and animation. Also the main characters of the game and the idea are all from the people behind this channel.  
 
 
 The playlist from the [Coding With Russ](https://youtube.com/playlist?list=PLjcN1EyupaQm20hlUE11y9y8EY2aXLpnv) youtube channel was a great guide to help me start coding the game with python 
