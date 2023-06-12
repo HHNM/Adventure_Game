@@ -1,7 +1,12 @@
 # Game-with-python
 An adventure game using the python library pygame.
 
-you can player the game directly by clicking on the Ajib 
+To play the game 
+
+Clicking on `Ajib.exe` 
+Or 
+Run the `model.py` file after installing the required libraries
+
 ## Game
 
 ![Alt text](Github_Images/game1.png?raw=true "lvl1")
