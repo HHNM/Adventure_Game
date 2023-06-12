@@ -24,6 +24,7 @@ You can create more levels using `level_editor.py` file
 ![Alt text](LevelEditor/lvleditor.png?raw=true "lvleditor")
 
 
+## Special Thanks 
 
+The playlist from the [codewithross](https://github.com/russs123/Shooter) youtube channel was a great guide to help me start coding the game with python 
 
-I used mostly the code from this [tutorial](https://github.com/russs123/Shooter)
