@@ -4,7 +4,7 @@ An adventure game using the python library pygame.
 ## Game
 
 This is how the game looks now,still need to work on the art and the code
-![Alt text](Game/game1.png?raw=true "lvl1")
+![Alt text](Github_Images/game1.png?raw=true "lvl1")
 
 For now, i have added all the animation of the player(idle, jump, attacks, hurt, die), but the art still need some work since it looks that they don't have all the same size.
 
@@ -14,7 +14,7 @@ The first enemy follows the player when the vision rect collides with the player
 
 The second attacks when he sees the player.
 
-![Alt text](Game/enemy.png?raw=true "enemy")
+![Alt text](Github_Images/enemy.png?raw=true "enemy")
 
 
 ## Level Editor
