@@ -21,7 +21,7 @@ Run the `model.py` file after installing the required libraries
 
 You can create more levels using `level_editor.py` file
 
-![Alt text](LevelEditor/lvleditor.png?raw=true "lvleditor")
+![Alt text](Github_Images/levelEditor.png?raw=true "lvleditor")
 
 
 ## Special Thanks 
