@@ -17,7 +17,7 @@ This is how the game looks
 There are different game screens (Start menu, main menu, option menu, pause menu, narration... ).
 Those are some of them:
 <p float="left">
-  <img src="Github_Images/Narration.png?raw=true" alt="Clothes" width=49.5% height=49.5%>
+  <img src="Github_Images/Narration.png?raw=true" width=49.5% height=49.5%>
   <img src="Github_Images/PauseMenu.png?raw=true" width=49.5% height=49.5%>
 </p>
 
