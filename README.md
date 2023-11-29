@@ -19,10 +19,10 @@ Some of the game screens(Start menu, main menu, option menu, pause menu, narrati
   <img src="Github_Images/Narration.png?raw=true" width=49.5% height=49.5%> 
   <img src="Github_Images/PauseMenu.png?raw=true" width=49.5% height=49.5%>
 </p>
+
 <p float="left">
   <img src="Github_Images/StartMenu.png?raw=true" width=49.5% height=49.5%>
   <img src="Github_Images/MainMenu.png?raw=true" width=49.5% height=49.5%> 
-  
 </p>
 
 ## AI
@@ -36,6 +36,10 @@ There is a total of 5 levels saved in a csv file. You can create more levels usi
 
 ![Alt text](Github_Images/levelEditor.png?raw=true "lvleditor")
 
+<p float="left">
+  <img src="Github_Images/SnowLevel.png?raw=true" width=49.5% height=49.5%>
+  <img src="Github_Images/ForestLevel.png?raw=true" width=49.5% height=49.5%> 
+</p>
 
 ## Special Thanks 
 
