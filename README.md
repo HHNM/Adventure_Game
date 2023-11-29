@@ -13,7 +13,13 @@ Run the `model.py` file after installing the required libraries
 start menu main menu game levels monsters
 ![Alt text](Github_Images/Game.png?raw=true "GameLook")
 
+## Game Screens
+Some of the game screens(Start menu, main menu, option menu, pause menu, narration... )
+![Alt text](Github_Images/enemy.png?raw=true "enemy")
 
+## AI
+There  are a total of 7 enemies, each has it own AI logic.
+You can see one of the AI logic visualisation (Right Character). The Character has a left and a right rectangle for visualisation, it detect the player when it collides with one of the rects.
 ![Alt text](Github_Images/enemy.png?raw=true "enemy")
 
 
