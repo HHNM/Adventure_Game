@@ -16,7 +16,7 @@ start menu main menu game levels monsters
 ## Game Screens
 Some of the game screens(Start menu, main menu, option menu, pause menu, narration... )
 
-<img src="Github_Images/Narration.png?raw=true" width=50% height=50>
+<img src="Github_Images/Narration.png?raw=true" width=50% height=50%>
 ## AI
 There  are a total of 7 enemies, each has it own AI logic.
 You can see one of the AI logic visualisation (Right Character). The Character has a left and a right rectangle for visualisation, it detect the player when it collides with one of the rects.
