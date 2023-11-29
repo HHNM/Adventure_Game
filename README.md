@@ -15,7 +15,7 @@ start menu main menu game levels monsters
 
 ## Game Screens
 Some of the game screens(Start menu, main menu, option menu, pause menu, narration... )
-![Alt text](Github_Images/enemy.png?raw=true "enemy")
+![Alt text](Github_Images/Narration.png?raw=true "narration" width=50% height=50%)
 
 ## AI
 There  are a total of 7 enemies, each has it own AI logic.
@@ -24,8 +24,7 @@ You can see one of the AI logic visualisation (Right Character). The Character h
 
 
 ## Level Editor
-
-You can create more levels using `level_editor.py` file
+There is a total of 5 levels saved in a csv file. You can create more levels using `level_editor.py` file
 
 ![Alt text](Github_Images/levelEditor.png?raw=true "lvleditor")
 
