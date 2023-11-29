@@ -1,20 +1,21 @@
 # Game-with-python
-An adventure game using the python library pygame.
+An adventure game made using the python library pygame.
 
 To play the game 
 
-Clicking on `Ajib.exe` 
+Directly by clicking on `Ajib.exe` 
 
 Or 
 
 Run the `model.py` file after installing the required libraries
 
 ## Game
-start menu main menu game levels monsters
+This is how the game looks
 ![Alt text](Github_Images/Game.png?raw=true "GameLook")
 
 ## Game Screens
-Some of the game screens(Start menu, main menu, option menu, pause menu, narration... )
+There are different game screens(Start menu, main menu, option menu, pause menu, narration... ).
+Those are some of them:
 <p float="left">
   <img src="Github_Images/Narration.png?raw=true" width=49.5% height=49.5%> 
   <img src="Github_Images/PauseMenu.png?raw=true" width=49.5% height=49.5%>
@@ -32,10 +33,10 @@ You can see one of the AI logic visualisation (Right Character). The Character h
 
 
 ## Level Editor
-There is a total of 5 levels saved in a csv file. You can create more levels using `level_editor.py` file
+There is a total of 5 levels, each saved in a csv file. You can create more levels using `level_editor.py` file
 
 ![Alt text](Github_Images/levelEditor.png?raw=true "lvleditor")
-
+Here are some of the levels
 <p float="left">
   <img src="Github_Images/SnowLevel.png?raw=true" width=49.5% height=49.5%>
   <img src="Github_Images/ForestLevel.png?raw=true" width=49.5% height=49.5%> 
