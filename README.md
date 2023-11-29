@@ -14,7 +14,7 @@ This is how the game looks
 ![Alt text](Github_Images/Game.png?raw=true "GameLook")
 
 ## Game Screens
-There are different game screens(Start menu, main menu, option menu, pause menu, narration... ).
+There are different game screens (Start menu, main menu, option menu, pause menu, narration... ).
 Those are some of them:
 <p float="left">
   <img src="Github_Images/Narration.png?raw=true" width=49.5% height=49.5%> 
