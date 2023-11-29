@@ -16,8 +16,8 @@ start menu main menu game levels monsters
 ## Game Screens
 Some of the game screens(Start menu, main menu, option menu, pause menu, narration... )
 <p float="left">
-<img src="Github_Images/Narration.png?raw=true" width=50% height=50%>
-<img src="Github_Images/StartMenu.png?raw=true" width=50% height=50%>
+  <img src="Github_Images/Narration.png?raw=true" width=50% height=50%>
+  <img src="Github_Images/StartMenu.png?raw=true" width=50% height=50%>
 </p>
 <img src="Github_Images/Narration.png?raw=true" width=50% height=50%>
 <img src="Github_Images/StartMenu.png?raw=true" width=50% height=50%>
