@@ -11,7 +11,7 @@ Run the `model.py` file after installing the required libraries
 
 ## Game
 start menu main menu game levels monsters
-![Alt text](Github_Images/game1.png?raw=true "lvl1")
+![Alt text](Github_Images/game1.png?raw=true "Game")
 
 
 ![Alt text](Github_Images/enemy.png?raw=true "enemy")
