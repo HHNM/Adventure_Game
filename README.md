@@ -7,7 +7,7 @@ Directly by clicking on `Ajib.exe`
 
 Or 
 
-Run the `model.py` file after installing the required libraries
+Run the `main.py` file after installing the required libraries
 
 ## Game
 This is how the game looks
